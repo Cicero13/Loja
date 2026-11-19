@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795032000000,
+      "tag": "0000_atelier_verde",
+      "breakpoints": true
+    }
+  ]
+}
